@@ -2,6 +2,14 @@
 
 Un script en Python para convertir diagramas Mermaid (`.mmd`) en un archivo `draw.io` (`.drawio`).
 
+## Repositorio
+
+Puedes ver más proyectos en mi perfil principal: https://github.com/CarlosNaranjoMx/CarlosNaranjoMx
+
+<a href="https://github.com/CarlosNaranjoMx/StickersMaker">
+  <img height=auto align="center" src="https://github-readme-stats-fast.vercel.app/api/pin?username=CarlosNaranjoMx&repo=StickersMaker&theme=chartreuse-dark"/>
+</a>
+
 ## Características
 
 - Convierte un archivo `.mmd` en un `.drawio` con una sola pestaña.
